@@ -1,0 +1,4 @@
+interface:
+  display_name: MarkItDown
+  short_description: Convert files to Markdown
+  default_prompt: Convert the provided file to Markdown with MarkItDown, then use the result for the requested analysis or editing task.
